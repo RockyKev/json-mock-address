@@ -1,0 +1,17 @@
+{
+	"company": "Acme Incorporated",
+	"tagline": "We Form Businesses!",
+	"address": {
+		"line1": "12345 Acme Street",
+		"line2": "Building A",
+		"city": "fake",
+		"state": "WA",
+		"zip": "98765"
+	},
+	"phone": 123456789,
+	"social": {
+		"facebook": "AcmeInc",
+		"twitter": "@Acme-inc",
+		"pinterest": "AcmeIncorporated"
+	}
+}
