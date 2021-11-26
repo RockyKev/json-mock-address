@@ -3,14 +3,15 @@
    flex-direction: column;
 }
 
-.left {
-  
-}
 
 .fab {
   color: black;
   font-size: 3rem;
   padding: 0.75rem;
+}
+
+.left {
+  
 }
 
 .right {
@@ -24,7 +25,7 @@
 }
 
 @media screen and (min-width: 800px) {
-  row {
+  .row {
         flex-direction: row;
   }
 }
