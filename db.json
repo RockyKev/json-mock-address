@@ -1,5 +1,5 @@
 {
-	"address: [
+	"address": [{
 		"company": "Acme Incorporated",
 		"tagline": "We Form Businesses!",
 		"address": {
@@ -15,5 +15,5 @@
 			"twitter": "@Acme-inc",
 			"pinterest": "AcmeIncorporated"
 		}
-	]
+	}]
 }
