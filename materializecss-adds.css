@@ -1,7 +1,32 @@
-body {
-  background-color: pink;
+.row {
+  display: flex;
+   flex-direction: column;
+}
+
+.left {
+  
 }
 
 .fab {
-  color: red;
+  color: black;
+  font-size: 3rem;
+  padding: 0.75rem;
 }
+
+.right {
+  align-self: center;
+  text-align: center;
+}
+
+
+.date {
+ text-align: center;
+}
+
+@media screen and (min-width: 800px) {
+  row {
+        flex-direction: row;
+  }
+}
+  
+ 
