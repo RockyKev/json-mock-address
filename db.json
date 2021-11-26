@@ -7,9 +7,9 @@
 			"line2": "Building A",
 			"city": "fake",
 			"state": "WA",
-			"zip": "98765"
+			"zip": "98765-4321"
 		},
-		"phone": 123456789,
+		"phone": "123.456.7890",
 		"social": {
 			"facebook": "AcmeInc",
 			"twitter": "@Acme-inc",
